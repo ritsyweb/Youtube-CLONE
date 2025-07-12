@@ -26,5 +26,9 @@ This is a front-end clone of the YouTube homepage built using pure HTML and CSS.
 <img width="1889" height="911" alt="Screenshot 2025-07-12 174116" src="https://github.com/user-attachments/assets/3a233df1-a42e-495a-b808-a4af231a36ba" />
 
 
-https://github.com/user-attachments/assets/6ce844c1-1cd0-4133-a745-5c5419e58f7d
+
+
+
+
+https://github.com/user-attachments/assets/cc3c2ffb-358a-4f71-ab9e-44acbfd5d711
 
